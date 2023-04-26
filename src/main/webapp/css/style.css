@@ -1,0 +1,11 @@
+#header {
+    overflow: hidden;
+    width: auto;
+    text-align: center;
+}
+
+.header-content {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+}
